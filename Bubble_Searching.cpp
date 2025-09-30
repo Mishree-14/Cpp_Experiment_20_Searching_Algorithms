@@ -3,7 +3,7 @@ Mishree Kalaria
 24070123052
 Batch:A2
 */
-  #include <iostream>
+#include <iostream>
 using namespace std;
 
 // Function to swap two integers
