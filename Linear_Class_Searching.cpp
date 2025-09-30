@@ -40,4 +40,7 @@ int main() {
 /*
 Enter a number to search : 69
 Target 69 found at index :4
+
+Enter a number to search : 77
+Target not found!
 */
